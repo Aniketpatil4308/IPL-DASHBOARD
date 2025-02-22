@@ -70,8 +70,7 @@ The **IPL Dashboard** is a web application that provides insightful visualizatio
 
 ![Teams-List Screenshot](https://github.com/Aniketpatil4308/IPL-DASHBOARD/blob/5bf04732b9d311f19a427cb222fa2e18f68871b9/Teams-IMG.jpeg)
 
-### 📌 **Adding a Video Section to Your README**  
-
+### 📌 **Video Section **  
 ## 🎥 IPL Dashboard Demo  
 
 - **🏏 Team Performance Analysis** – Explore the statistics of different IPL teams.  
@@ -80,9 +79,8 @@ The **IPL Dashboard** is a web application that provides insightful visualizatio
 - **🔍 Match Details** – Analyze individual match scores, top players, and highlights.  
 - **📈 Player Leaderboard** – Track top batsmen, bowlers, and all-rounders.  
 
-👉 Watch the demo here: **[Video Link]([#](https://github.com/Aniketpatil4308/IPL-DASHBOARD/blob/4eb5d9e359e0a6ea7ff236e54a8c3575f9a48cea/IPL-Demo.mp4
+👉 Watch the demo here: **[IPL Dashboard Video](https://github.com/Aniketpatil4308/IPL-DASHBOARD/blob/4eb5d9e359e0a6ea7ff236e54a8c3575f9a48cea/IPL-Demo.mp4)**
 
-##))**  
 
 
 🏗️ Future Enhancements
