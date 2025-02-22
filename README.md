@@ -80,9 +80,12 @@ The **IPL Dashboard** is a web application that provides insightful visualizatio
 - **🔍 Match Details** – Analyze individual match scores, top players, and highlights.  
 - **📈 Player Leaderboard** – Track top batsmen, bowlers, and all-rounders.  
 
-👉 Watch the demo here: **[Video Link](#)**  https://github.com/Aniketpatil4308/IPL-DASHBOARD/blob/4eb5d9e359e0a6ea7ff236e54a8c3575f9a48cea/IPL-Demo.mp4
+👉 Watch the demo here: **[Video Link]([#](https://github.com/Aniketpatil4308/IPL-DASHBOARD/blob/4eb5d9e359e0a6ea7ff236e54a8c3575f9a48cea/IPL-Demo.mp4
 
-## 🏗️ Future Enhancements
+##))**  
+
+
+🏗️ Future Enhancements
 - Add player profiles and performance analytics
 - Implement user authentication for personalized dashboards
 - Enhance UI with animations and improved charts
