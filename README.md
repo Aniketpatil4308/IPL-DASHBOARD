@@ -67,7 +67,9 @@ The **IPL Dashboard** is a web application that provides insightful visualizatio
 
 ## 📷 Screenshots
 ![Dashboard Screenshot](https://github.com/Aniketpatil4308/IPL-DASHBOARD/blob/065bd179d7a234ecfc99ec4862d5043cbc93b478/Team-DashBoard.jpeg)
-![Teams-List Screenshot]([https://github.com/Aniketpatil4308/IPL-DASHBOARD/blob/065bd179d7a234ecfc99ec4862d5043cbc93b478/Team-DashBoard.jpeg](https://github.com/Aniketpatil4308/IPL-DASHBOARD/blob/5bf04732b9d311f19a427cb222fa2e18f68871b9/Teams-IMG.jpeg))
+
+![Teams-List Screenshot](https://github.com/Aniketpatil4308/IPL-DASHBOARD/blob/5bf04732b9d311f19a427cb222fa2e18f68871b9/Teams-IMG.jpeg)
+
 
 ## 🏗️ Future Enhancements
 - Add player profiles and performance analytics
