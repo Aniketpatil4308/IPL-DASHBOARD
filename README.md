@@ -66,7 +66,7 @@ The **IPL Dashboard** is a web application that provides insightful visualizatio
 | `/api/matches/{year}` | GET | Fetch match details for a given year |
 
 ## 📷 Screenshots
-![Dashboard Screenshot]()
+![Dashboard Screenshot](https://github.com/Aniketpatil4308/IPL-DASHBOARD/blob/065bd179d7a234ecfc99ec4862d5043cbc93b478/Team-DashBoard.jpeg)
 
 ## 🏗️ Future Enhancements
 - Add player profiles and performance analytics
