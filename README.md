@@ -92,5 +92,6 @@ The **IPL Dashboard** is a web application that provides insightful visualizatio
 ## 🤝 Contributing
 Feel free to fork the repository and submit pull requests. Contributions are welcome!
 
-## 👨‍💻 Author
-- **Aniket Patil** - [LinkedIn]([(https://www.linkedin.com/in/aniket-patil1))
+## 👨‍💻 Author- 
+**Aniket Patil** - [LinkedIn](https://www.linkedin.com/in/aniket-patil1)
+
